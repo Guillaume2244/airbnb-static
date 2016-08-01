@@ -1,0 +1,16 @@
+
+<div class="container text-center">
+  <h3>Let's meet our coachs</h3>
+  <div class="row">
+    <% data.team.each do |member, infos| %>
+    <div class="col-md-4">
+      <div class="text-center">
+       <%= image_tag infos.picture, class: "img-circle" %>
+       <h2><%= member.capitalize %></h2>
+       <p> <%= infos.position %></p>
+     </div>
+   </div>
+   <% end %>
+ </div>
+</div>
+

@@ -1,0 +1,12 @@
+romain:
+  picture: romain.jpeg
+  position: COO
+
+anne:
+  picture: anne.jpg
+  position: CEO
+
+seb:
+  picture: seb.jpg
+  position: CTO
+
