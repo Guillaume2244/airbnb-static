@@ -10,8 +10,7 @@
 # Auto-prefixing of CSS code with vendor prefix
 activate :autoprefixer
 
-
-["romain", "seb", "anne"].each do |name|
+["seb", "anne", "romain", "gaston", "amory", "jeanne"].each do |name|
   proxy "/flats/#{name}.html", "/flats/show.html", :locals => { :owner => name }, :ignore => true
 end
 

@@ -6,6 +6,16 @@ seb:
   summary: Charming room in Montmartre
   city: Paris, France
   wifi: true
+  accomodates: 2
+  bathrooms: 2
+  bed: real bed
+  bedrooms: 4
+  stars: 3
+  about: cool, quiet place
+  welcome_drink: "true"
+  tv: "true"
+  wifi: "true"
+  kitchen: "true"
 romain:
   owner_name: Romain Paillard
   picture: card-london.jpeg
@@ -14,6 +24,16 @@ romain:
   summary: Nice flat in Piccadilly
   city: London, UK
   wifi: false
+  accomodates: 1
+  bathrooms: 4
+  bed: single bed
+  bedrooms: 4
+  stars: 3
+  about: no party inside
+  welcome_drink: "false"
+  tv: "false"
+  wifi: "true"
+  kitchen: "false"
 anne:
   owner_name: Anne Roumanoff
   picture: card-paris.jpg
@@ -22,6 +42,16 @@ anne:
   summary: Nice flat in Guingamp
   city: Guingamp, FR
   wifi: false
+  accomodates: 3
+  bathrooms: 1
+  bed: cool bed
+  bedrooms: 4
+  stars: 1
+  about: ideal for romantic people
+  welcome_drink: "true"
+  tv: "false"
+  wifi: "true"
+  kitchen: "true"
 gaston:
   owner_name: Gaston Saunier
   picture: madrid.jpg
@@ -30,6 +60,16 @@ gaston:
   summary: Charming room in Montmartre
   city: Madrid, SP
   wifi: true
+  accomodates: 1
+  bathrooms: 4
+  bed: single bed
+  bedrooms: 4
+  stars: 3
+  about: we care a lot of our hosts
+  welcome_drink: "false"
+  tv: "true"
+  wifi: "false"
+  kitchen: "false"
 amory:
   owner_name: Amory Paillard
   picture: dublin.jpg
@@ -38,6 +78,16 @@ amory:
   summary: Nice flat in Piccadilly
   city: DUBLIN, UK
   wifi: false
+  accomodates: 1
+  bathrooms: 4
+  bed: single bed
+  bedrooms: 4
+  stars: 2
+  about: come and discover an amazing place
+  welcome_drink: "false"
+  tv: "true"
+  wifi: "false"
+  kitchen: "true"
 jeanne:
   owner_name: Jeanne Roumanoff
   picture: barcelone.jpg
@@ -46,3 +96,14 @@ jeanne:
   summary: Nice flat in Guingamp
   city: BARCELONE, SP
   wifi: false
+  accomodates: 1
+  bathrooms: 4
+  bed: single bed
+  bedrooms: 4
+  stars: 5
+  about: hope to be in touch very soon
+  welcome_drink: "true"
+  tv: "true"
+  wifi: "true"
+  kitchen: "false"
+
